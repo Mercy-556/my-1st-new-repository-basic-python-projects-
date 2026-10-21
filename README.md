@@ -27,9 +27,9 @@ pip install matplotlib
 3. Run any script directly using Python:
 
 ```bash
-python collatz_sequence.py
-python fibonacci_series.py
-python prime_finder.py
-python guessing_game.py
-python riemann_zeta.py
+python "CollatzSequence(CS).py"
+python "FibunacciSeries(FS).py"
+python "PrimeNumberSequence(PNS).py"
+python "RandomGuessingGame(RGG).py"
+python "RiemannZetaFunction(RZF).py"
 ```
